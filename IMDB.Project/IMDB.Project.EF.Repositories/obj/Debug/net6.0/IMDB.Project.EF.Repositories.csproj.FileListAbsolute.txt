@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\IMDB.Project\IMDB.Project.EF.Repositories\bin\Debug\net6.0\IMDB.Project.EF.Repositories.deps.json
+C:\Users\admin\source\repos\IMDB.Project\IMDB.Project.EF.Repositories\bin\Debug\net6.0\IMDB.Project.EF.Repositories.runtimeconfig.json
+C:\Users\admin\source\repos\IMDB.Project\IMDB.Project.EF.Repositories\bin\Debug\net6.0\IMDB.Project.EF.Repositories.dll
+C:\Users\admin\source\repos\IMDB.Project\IMDB.Project.EF.Repositories\bin\Debug\net6.0\IMDB.Project.EF.Repositories.pdb
+C:\Users\admin\source\repos\IMDB.Project\IMDB.Project.EF.Repositories\bin\Debug\net6.0\IMDB.Project.EF.DB.dll
+C:\Users\admin\source\repos\IMDB.Project\IMDB.Project.EF.Repositories\bin\Debug\net6.0\IMDB.Project.EF.DB.pdb
+C:\Users\admin\source\repos\IMDB.Project\IMDB.Project.EF.Repositories\obj\Debug\net6.0\IMDB.Project.EF.Repositories.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\IMDB.Project\IMDB.Project.EF.Repositories\obj\Debug\net6.0\IMDB.Project.EF.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\IMDB.Project\IMDB.Project.EF.Repositories\obj\Debug\net6.0\IMDB.Project.EF.Repositories.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\IMDB.Project\IMDB.Project.EF.Repositories\obj\Debug\net6.0\IMDB.Project.EF.Repositories.AssemblyInfo.cs
+C:\Users\admin\source\repos\IMDB.Project\IMDB.Project.EF.Repositories\obj\Debug\net6.0\IMDB.Project.EF.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\IMDB.Project\IMDB.Project.EF.Repositories\obj\Debug\net6.0\IMDB.Project.EF.Repositories.csproj.CopyComplete
+C:\Users\admin\source\repos\IMDB.Project\IMDB.Project.EF.Repositories\obj\Debug\net6.0\IMDB.Project.EF.Repositories.dll
+C:\Users\admin\source\repos\IMDB.Project\IMDB.Project.EF.Repositories\obj\Debug\net6.0\refint\IMDB.Project.EF.Repositories.dll
+C:\Users\admin\source\repos\IMDB.Project\IMDB.Project.EF.Repositories\obj\Debug\net6.0\IMDB.Project.EF.Repositories.pdb
+C:\Users\admin\source\repos\IMDB.Project\IMDB.Project.EF.Repositories\obj\Debug\net6.0\IMDB.Project.EF.Repositories.genruntimeconfig.cache
+C:\Users\admin\source\repos\IMDB.Project\IMDB.Project.EF.Repositories\obj\Debug\net6.0\ref\IMDB.Project.EF.Repositories.dll

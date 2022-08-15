@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\IMDB.Project\IMDB.Project.EF.DB\bin\Debug\net6.0\IMDB.Project.EF.DB.deps.json
+C:\Users\admin\source\repos\IMDB.Project\IMDB.Project.EF.DB\bin\Debug\net6.0\IMDB.Project.EF.DB.runtimeconfig.json
+C:\Users\admin\source\repos\IMDB.Project\IMDB.Project.EF.DB\bin\Debug\net6.0\IMDB.Project.EF.DB.dll
+C:\Users\admin\source\repos\IMDB.Project\IMDB.Project.EF.DB\bin\Debug\net6.0\IMDB.Project.EF.DB.pdb
+C:\Users\admin\source\repos\IMDB.Project\IMDB.Project.EF.DB\obj\Debug\net6.0\IMDB.Project.EF.DB.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\IMDB.Project\IMDB.Project.EF.DB\obj\Debug\net6.0\IMDB.Project.EF.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\IMDB.Project\IMDB.Project.EF.DB\obj\Debug\net6.0\IMDB.Project.EF.DB.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\IMDB.Project\IMDB.Project.EF.DB\obj\Debug\net6.0\IMDB.Project.EF.DB.AssemblyInfo.cs
+C:\Users\admin\source\repos\IMDB.Project\IMDB.Project.EF.DB\obj\Debug\net6.0\IMDB.Project.EF.DB.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\IMDB.Project\IMDB.Project.EF.DB\obj\Debug\net6.0\IMDB.Project.EF.DB.dll
+C:\Users\admin\source\repos\IMDB.Project\IMDB.Project.EF.DB\obj\Debug\net6.0\refint\IMDB.Project.EF.DB.dll
+C:\Users\admin\source\repos\IMDB.Project\IMDB.Project.EF.DB\obj\Debug\net6.0\IMDB.Project.EF.DB.pdb
+C:\Users\admin\source\repos\IMDB.Project\IMDB.Project.EF.DB\obj\Debug\net6.0\IMDB.Project.EF.DB.genruntimeconfig.cache
+C:\Users\admin\source\repos\IMDB.Project\IMDB.Project.EF.DB\obj\Debug\net6.0\ref\IMDB.Project.EF.DB.dll
